@@ -12,6 +12,8 @@ import Services from "./Pages/Services";
 import Gallery from "./Pages/Gallery";
 import ScrollToTop from "./Component/ScrollToTop";
 
+// Main File
+
 const App = () => {
   const location = useLocation();
 
